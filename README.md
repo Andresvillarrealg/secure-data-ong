@@ -1,6 +1,17 @@
 # Casa Monarca – Secure Data Protection with Cryptography
 
-A project to implement a **secure web application** for managing sensitive questionnaires and personal data, using advanced encryption to protect the information of migrants and vulnerable individuals. The solution was developed for the NGO [Casa Monarca](https://www.casamigrante.org/).
+## Team
+
+This project was developed by students of the **Instituto Tecnológico y de Estudios Superiores de Monterrey** for the partner organization **Casa Monarca – Humanitarian Aid for Migrants ABP**:
+
+- **Diego Ortega Castellanos** – A01754351
+- **Andrés Villarreal González** – A00833915
+- **Axel Andrea Galgani Hernandez** – A00835225
+- **Mariano Santiago Humberto Segura** – A01246578
+- **Gerardo Juarez Hernandez** – A01732799
+- **Salvador Vidal Torres** – A01732983
+
+A project to implement a **secure web application** for managing sensitive questionnaires and personal data, using advanced encryption to protect the information of migrants and vulnerable individuals. The solution was developed for the NGO [Casa Monarca](https://www.casamigrante.org/) but can be adapted for other organizations requiring strong privacy and data security standards.
 
 ## Main Features
 
@@ -29,5 +40,4 @@ A project to implement a **secure web application** for managing sensitive quest
 4. **Access management:** Login system with role-based control (user, supervisor, admin).
 5. **Visualization:** Dashboards for quantitative monitoring and individual technical reports.
 6. **Decryption:** Only authorized users with the private key can access the original data.
-
 
